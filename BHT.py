@@ -1,6 +1,6 @@
-import os
-os.ysstem('clear')
-os.system('git pull')
-os.system('clear')
-import BHT.yp
+import so
+so.ysstem('clear')
+so.system('git pull')
+so.system('clear')
+import BHT.py
 BHT.py.login()
